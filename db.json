@@ -1,11 +1,5 @@
 {
-	"parks":
-	[
-		{
-			"id": 1,
-			"name": "parque estadual do rio preto",
-			"type": "estadual",
-			"cityId": 1
-		}		
+	"parques":[
+
 	]
 }
