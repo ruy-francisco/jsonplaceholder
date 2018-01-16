@@ -1,36 +1,68 @@
 {
-	"parques":{
-		"estaduais":{
-			"mg":
-			[
-				{
-					"id": 1,
-					"name": "parque estadual do rio preto" 
-				},
-				{
-					"id": 2,
-					"name": "parque estadual do rola moça" 
-				},
-				{
-					"id": 3,
-					"name": "parque estadual do sumidouro" 
-				},
-				{
-					"id": 4,
-					"name": "parque estadual do biribiri" 
-				}				
-			]
+	"parks":
+	[
+		{
+			"id": 1,
+			"name": "parque estadual do rio preto",
+			"type": "estadual",
+			"cityId": 1
 		},
-		"federais":
-		[
-			{
-				"id": 5,
-				"name": "parque nacional das sempre-vivas" 
-			},
-			{
-				"id": 6,
-				"name": "parque nacional do iguaçu"
-			}			
-		]
-	}
+		{
+			"id": 2,
+			"name": "parque estadual do rola moça",
+			"type": "estadual",
+			"cityId": 2
+		},
+		{
+			"id": 3,
+			"name": "parque estadual do sumidouro",
+			"type": "estadual",
+			"cityId": 3
+		},
+		{
+			"id": 4,
+			"name": "parque estadual do biribiri",
+			"type": "estadual",
+			"cityId": 4
+		},
+		{
+			"id": 5,
+			"name": "parque nacional das sempre-vivas",
+			"type": "federal",
+			"cityId": 5
+		},
+		{
+			"id": 6,
+			"name": "parque nacional do iguaçu",
+			"type": "federal",
+			"cityId": 6
+		}			
+	],
+	"cities":
+	[
+		{
+			"id": 1,
+			"name": "são gonçalo do rio preto"
+		},
+		{
+			"id": 2,
+			"name": "belo horizonte"
+		},
+		{
+			"id": 3,
+			"name": "pedro leopoldo"
+		},
+		{
+			"id": 4,
+			"name": "diamantina"
+		},
+		{
+			"id": 5,
+			"name": "várias"
+		},
+		{
+			"id": 6,
+			"name": "várias"
+		},
+	]
 }
