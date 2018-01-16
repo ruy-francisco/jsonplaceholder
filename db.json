@@ -36,5 +36,32 @@
 			"type": "federal",
 			"cityId": 6
 		}
+	],
+	"cities":
+	[
+		{
+			"id": 1,
+			"name": "são gonçalo do rio preto"
+		},
+		{
+			"id": 2,
+			"name": "belo horizonte"
+		},
+		{
+			"id": 3,
+			"name": "pedro leopoldo"
+		},
+		{
+			"id": 4,
+			"name": "diamantina"
+		},
+		{
+			"id": 5,
+			"name": "várias"
+		},
+		{
+			"id": 6,
+			"name": "várias"
+		}
 	]
 }
