@@ -1,0 +1,13 @@
+{
+	"parques":{
+		"estaduais":{
+			"mg":{
+				["parque estadual do rio preto", "parque estadual do rola moça", "parque estadual do sumidouro", "parque estadual do biribiri"]
+			}
+		},
+		"federais":[
+			"parque nacional das sempre-vivas",
+			"parque nacional do iguaçu"
+		]
+	}
+}
