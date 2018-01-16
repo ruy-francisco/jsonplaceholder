@@ -6,36 +6,6 @@
 			"name": "parque estadual do rio preto",
 			"type": "estadual",
 			"cityId": 1
-		},
-		{
-			"id": 2,
-			"name": "parque estadual do rola moça",
-			"type": "estadual",
-			"cityId": 2
-		},
-		{
-			"id": 3,
-			"name": "parque estadual do sumidouro",
-			"type": "estadual",
-			"cityId": 3
-		},
-		{
-			"id": 4,
-			"name": "parque estadual do biribiri",
-			"type": "estadual",
-			"cityId": 4
-		},
-		{
-			"id": 5,
-			"name": "parque nacional das sempre-vivas",
-			"type": "federal",
-			"cityId": 5
-		},
-		{
-			"id": 6,
-			"name": "parque nacional do iguaçu",
-			"type": "federal",
-			"cityId": 6
-		}			
+		}		
 	]
 }
